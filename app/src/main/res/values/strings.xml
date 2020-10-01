@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Save Activity State</string>
+    <string name="label_name">Insert a name</string>
+    <string name="btn_add">Insert</string>
 </resources>
